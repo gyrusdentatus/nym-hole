@@ -25,6 +25,12 @@ Options:
 --help: Print a help message.
 
 ```
+### MACHINE A (sender)
+<img width="467" alt="image" src="https://github.com/gyrusdentatus/nym-hole/assets/33793809/947d5b89-453e-4dfd-b491-73c211b5f081">
+
+### MACHINE B (recipient)
+
+<img width="846" alt="image" src="https://github.com/gyrusdentatus/nym-hole/assets/33793809/bfcb6edb-63bb-4e63-9f3b-afdc49b6a93a">
 
 ## Important notes: 
 
